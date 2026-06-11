@@ -82,3 +82,14 @@ The following values are the reported simulation results from the paper.
 | PRM-BoN | 99.13% | 0.87% | 0.00% | 13.42% | 36.77% | 49.82% |
 | DPRM-BoN | 99.52% | 0.48% | 0.00% | 13.40% | 37.02% | 49.58% |
 | DPRM-AS | 17.23% | 36.10% | 46.67% | 12.02% | 38.02% | 49.97% |
+
+## Citation
+
+```bibtex
+@misc{bu2026distributionalbiasesposttraining,
+  title        = {Distributional Biases in Post-Training: A Markovian Analysis of Reasoning Trajectories},
+  author       = {Dake Bu and Wei Huang and Andi Han and Bo Xue and Hau-San Wong and Qingfu Zhang and Taiji Suzuki and Atsushi Nitanda},
+  year         = {2026},
+  url          = {https://openreview.net/pdf?id=3dPpfbmZ3n}
+}
+```
